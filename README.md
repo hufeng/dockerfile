@@ -1,16 +1,13 @@
-# dockerfile
-my dockerfile
+## dockerfile
 
-nodejs
-typescript
-ts-node
+构建一个快闪的ubuntu的基础镜像
 
-ocaml + reasonml
-rust
-go
+## 后续包含基础的开发环境信息
 
-nvim
-
-systemtap
-
-
+- nodejs
+- python
+- Rust
+- golang
+- erlang
+- zig
+- ocaml
